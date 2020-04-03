@@ -1,6 +1,8 @@
 L33T NEWS V1.0.0
 ================
 
+link: https://denikucevic.github.io
+
 L33T NEWS was my final project for IT Bootcamp that was ment to summ up the knowedge I have gethered over the 10 week course for HTML, CSS, JavaScript and React.
 
 L33T NEWS is application that is gathering news from different API sources and has some special features like displaying statistics of covid-19 virus spread by countries.
